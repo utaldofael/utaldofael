@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/raphaelaugusto07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mailto:raphaelaugustob1509@gmail.com">
+  <a href="mailto:raphaelaugustob1509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
