@@ -1,5 +1,5 @@
 <div align="center">
-<img height="200px" src="vader.jpg" alt="Vader"/>
+<img height="" src="starwars.gif" alt="Vader"/>
 </div>
 
 # <div align="center">Olá 👋, Meu nome é Raphael Augusto</div>
