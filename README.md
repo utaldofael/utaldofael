@@ -42,10 +42,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<div align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=utaldofael&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utaldofael&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
