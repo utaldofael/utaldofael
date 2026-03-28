@@ -1,4 +1,6 @@
-<img src="vader.jpg" alt="Vader"/>
+<div align="center">
+<img height="200px" src="vader.jpg" alt="Vader"/>
+</div>
 
 # <div align="center">Olá 👋, Meu nome é Raphael Augusto</div>
 
