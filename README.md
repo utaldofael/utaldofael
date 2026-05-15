@@ -51,6 +51,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=utaldofael&theme=highcontrast&locale=pt_BR)](https://git.io/streak-stats)
+  
+</div>
+
 
 ---
 
